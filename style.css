@@ -7,15 +7,15 @@ body {
     justify-content: center;
     height: 100vh;
     margin: 0;
-    background: linear-gradient(to top, #87CEEB, #FFF5B7);
+    background: linear-gradient(to top, #D2691E, #DEB887);
     color: #333;
 }
 
 h1 {
     font-size: 2.5rem;
-    color: #FF8C00;
+    color: #8B4513;
     margin-bottom: 20px;
-    text-shadow: 2px 2px #FFD700;
+    text-shadow: 2px 2px #Fff;
 }
 
 label, select, button {
@@ -34,7 +34,7 @@ select, button {
 }
 
 select:hover, button:hover {
-    background-color: #FFD700;
+    background-color: #8B4513;
     transform: scale(1.1);
 }
 
