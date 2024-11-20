@@ -30,7 +30,6 @@ select, button {
     border: 2px solid #FF8C00;
     background-color: #FFF5B7;
     cursor: pointer;
-    transition: 0.3s;
     transition: 0.7s ease;
 }
 
