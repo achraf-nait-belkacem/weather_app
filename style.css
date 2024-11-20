@@ -31,10 +31,12 @@ select, button {
     background-color: #FFF5B7;
     cursor: pointer;
     transition: 0.3s;
+    transition: 0.7s ease;
 }
 
 select:hover, button:hover {
     background-color: #FFD700;
+    transform: scale(1.1);
 }
 
 /* Resultaatweergave styling */
