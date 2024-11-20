@@ -8,7 +8,7 @@
 </head>
 <body>
 
-    <h1>WeatherAPP in Morocco by Coding with Othman</h1>
+    <h1>WeatherAPP in Morocco by Achraf </h1>
     <form method="POST">
         <label for="city">Choose a city</label>
         <select name="city" id="city">
