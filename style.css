@@ -1,4 +1,4 @@
-/* Algemene styling */
+
 body {
     font-family: Arial, sans-serif;
     display: flex;
@@ -23,7 +23,6 @@ label, select, button {
     margin: 10px;
 }
 
-/* Dropdown en knop styling */
 select, button {
     padding: 10px;
     border-radius: 10px;
@@ -38,7 +37,6 @@ select:hover, button:hover {
     transform: scale(1.1);
 }
 
-/* Resultaatweergave styling */
 #result {
     margin-top: 20px;
     font-size: 1.5rem;
@@ -49,7 +47,6 @@ select:hover, button:hover {
     animation: fadeIn 1.5s ease-in-out;
 }
 
-/* Zonnig icoon styling */
 .sun-icon {
     font-size: 3rem;
     color: #FFD700;
@@ -57,7 +54,6 @@ select:hover, button:hover {
     animation: rotateSun 6s linear infinite;
 }
 
-/* Animaties */
 @keyframes fadeIn {
     from { opacity: 0; }
     to { opacity: 1; }
